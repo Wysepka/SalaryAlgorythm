@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pensje_XIX_IT_Olympics/1.0.0": {
+        "runtime": {
+          "Pensje_XIX_IT_Olympics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pensje_XIX_IT_Olympics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

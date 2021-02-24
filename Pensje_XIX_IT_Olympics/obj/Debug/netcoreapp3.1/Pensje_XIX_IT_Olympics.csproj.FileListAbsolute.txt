@@ -1,0 +1,13 @@
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.exe
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.deps.json
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.runtimeconfig.json
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.runtimeconfig.dev.json
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.dll
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\bin\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.pdb
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.csprojAssemblyReference.cache
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.AssemblyInfoInputs.cache
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.AssemblyInfo.cs
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.csproj.CoreCompileInputs.cache
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.dll
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.pdb
+D:\Projects\Pensje_XIX_IT_Olympics\Pensje_XIX_IT_Olympics\obj\Debug\netcoreapp3.1\Pensje_XIX_IT_Olympics.genruntimeconfig.cache
